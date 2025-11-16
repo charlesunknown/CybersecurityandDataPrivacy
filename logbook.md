@@ -7,3 +7,4 @@
 | 04.11.2025 | 2 | Netacad Module 3&4&5&finalexam |Started and Completed Module 3&4&5&finalexam|
 | 04.11.2025 | 2 | Second Class |Learned about CWE,CVE, Portswigger, 2 SQL injection labs done|
 | 15.11.2025 | 1.5 | Portswigger academy |Read about authentication, vulnerabilities in password based login, brute-force login Lab using Burp and 2FA simple bypass Lab|
+| 16.11.2025 | 2 | Phase 1 | Docker setup, Zap installation and start guide, material reading and class on penetration testing |
