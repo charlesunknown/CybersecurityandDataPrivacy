@@ -25,14 +25,13 @@
 
 **Short summary (1-2 sentences):**  
 
-**Overall risk level:** (Low / Medium / High / Critical)
-
+**Overall risk level:** High
 **Top 5 immediate actions:**  
-1.  
-2.  
-3.  
-4.  
-5.  
+1.  Use variables for the input and then use it for your commands so that its content can't be run as commands.
+2.  look for common ways of writing special characters involved in paths like / or \ and make sure to strip them of the input.
+3.  Apply encryption server-side (a one-way incryption is commonly used for passwords) and then store the encrypted version
+4.  Apply conditions on the input such as minimum of characters, presence of special characters, numbers
+5.  Apply conditions on the Birthdate input to have minimal age necessary to use the booking service
 
 ---
 
