@@ -4,11 +4,10 @@
 - Name: NELZY Charles-André
 
 **Purpose:**  
-- penetration and functionality testing on the application's registration page
+- Penetration and functionality testing on the application's registration page
 
 **Scope:**  
 - Tested components: website page, MyPostGreSQL database
-- Exclusions:  
 - Test approach: Gray-box
 
 **Test environment & dates:**  
@@ -17,9 +16,8 @@
 - Test environment details (OS, runtime, DB, browsers):
 
 **Assumptions & constraints:**  
-- e.g., credentials provided, limited time, etc.
+- Access to the database
 
----
 
 # 2️⃣ Executive Summary
 
@@ -54,31 +52,11 @@ Using ZAP and the website's database, it was possible to detect and verify a cer
 |------|-----------|----------|--------------|------------------|
 | F-01 | 🔴 High | SQL Injection in registration | Input field allows `' OR '1'='1` `' AND '1'='1` injection |<img width="924" height="389" alt="image" src="https://github.com/user-attachments/assets/4359732f-b31e-4fb6-a393-578ebf839470" />
 | F-02 | 🔴 High | Path Traversel | username can be made with special characters using their ASCII format | <img width="840" height="130" alt="image" src="https://github.com/user-attachments/assets/9dfeddfc-79df-4a8b-a871-1b12cce21670" />
-| F-04 | 🟠 Medium | Database format | Information are clear in the database, no encryption of info | <img width="840" height="130" alt="image" src="https://github.com/user-attachments/assets/c7a2edb7-7bd0-4267-aeac-dad612f56cb4" />
-| F-05 | 🟡 Low | Weak birthdate/email/password policy | Accepts passwords like "12345", invalid emails and birthday in the future/no minimal age |<img width="514" height="41" alt="image" src="https://github.com/user-attachments/assets/89453e64-a04d-40d1-995b-9d9d0718e748" /> <img width="595" height="133" alt="image" src="https://github.com/user-attachments/assets/b85d311e-1fee-479d-96a3-d0c319c4070d" />
+| F-03 | 🟠 Medium | Database format | Information are clear in the database, no encryption of info | <img width="840" height="130" alt="image" src="https://github.com/user-attachments/assets/c7a2edb7-7bd0-4267-aeac-dad612f56cb4" />
+| F-04 | 🟡 Low | Weak birthdate/email/password policy | Accepts passwords like "12345", invalid emails and birthday in the future/no minimal age |<img width="514" height="41" alt="image" src="https://github.com/user-attachments/assets/89453e64-a04d-40d1-995b-9d9d0718e748" /> <img width="595" height="133" alt="image" src="https://github.com/user-attachments/assets/b85d311e-1fee-479d-96a3-d0c319c4070d" />
 
 
 
 # 5️⃣ OWASP ZAP Test Report (Attachment)
 
-**Purpose:**  
-- Attach or link your OWASP ZAP scan results (Markdown format preferred).
-
----
-
-**Instructions (CMD version):**
-1. Run OWASP ZAP baseline scan:  
-   ```bash
-   zap-baseline.py -t https://example.com -r zap_report_round1.html -J zap_report.json
-   ```
-2. Export results to markdown:  
-   ```bash
-   zap-cli report -o zap_report_round1.md -f markdown
-   ```
-3. Save the report as `zap_report_round1.md` and link it below.
-
----
-> [!NOTE]
-> 📁 **Attach full report:** → `check itslearning` → **Add a link here**
-
----
+- Link to the zap report: https://github.com/charlesunknown/CybersecurityandDataPrivacy/blob/main/BookingSystem-Phase1/zap_report_round1.md
