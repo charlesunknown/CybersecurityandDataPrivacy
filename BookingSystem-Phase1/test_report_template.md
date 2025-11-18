@@ -55,8 +55,7 @@ Using ZAP and the website's database, it was possible to detect and verify a cer
 | F-01 | 🔴 High | SQL Injection in registration | Input field allows `' OR '1'='1` `' AND '1'='1` injection |<img width="924" height="389" alt="image" src="https://github.com/user-attachments/assets/4359732f-b31e-4fb6-a393-578ebf839470" />
 | F-02 | 🔴 High | Path Traversel | username can be made with special characters using their ASCII format | <img width="840" height="130" alt="image" src="https://github.com/user-attachments/assets/9dfeddfc-79df-4a8b-a871-1b12cce21670" />
 | F-04 | 🟠 Medium | Database format | Information are clear in the database, no encryption of info | <img width="840" height="130" alt="image" src="https://github.com/user-attachments/assets/c7a2edb7-7bd0-4267-aeac-dad612f56cb4" />
-| F-05 | 🟡 Low | Weak password policy | Accepts passwords like "12345" | <img width="595" height="133" alt="image" src="https://github.com/user-attachments/assets/9292c45a-13e8-4985-8af3-782406ef8fc1" />
-| F-05 | 🟡 Low | Birthdate input| Accepts birthdate in the future | <img width="595" height="133" alt="image" src="https://github.com/user-attachments/assets/7c5ee838-38e9-46ae-bbba-8415a369930c" />
+| F-05 | 🟡 Low | Weak birthdate/email/password policy | Accepts passwords like "12345", invalid emails and birthday in the future |<img width="514" height="41" alt="image" src="https://github.com/user-attachments/assets/89453e64-a04d-40d1-995b-9d9d0718e748" /> <img width="595" height="133" alt="image" src="https://github.com/user-attachments/assets/9292c45a-13e8-4985-8af3-782406ef8fc1" />
 
 
 # 5️⃣ OWASP ZAP Test Report (Attachment)
