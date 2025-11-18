@@ -7,13 +7,13 @@
 - penetration and functionality testing on the application's registration page
 
 **Scope:**  
-- Tested components:  
+- Tested components: website page, MyPostGreSQL database
 - Exclusions:  
 - Test approach: Gray-box
 
 **Test environment & dates:**  
-- Start:  
-- End:  
+- Start:  15:37 18th Nov
+- End:  16:48 18th Nov
 - Test environment details (OS, runtime, DB, browsers):
 
 **Assumptions & constraints:**  
