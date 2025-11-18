@@ -18,6 +18,7 @@
 **Assumptions & constraints:**  
 - Access to the database
 
+---
 
 # 2️⃣ Executive Summary
 
