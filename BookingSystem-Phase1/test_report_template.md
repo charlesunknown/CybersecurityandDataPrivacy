@@ -1,15 +1,15 @@
 # 1️⃣ Introduction
 
 **Tester(s):**  
-- Name:  
+- Name: NELZY Charles-A,dré
 
 **Purpose:**  
-- Describe the purpose of this test (e.g., identify vulnerabilities in registration and authentication flows).
+- penetration and functionality testing on the application's registration page
 
 **Scope:**  
 - Tested components:  
 - Exclusions:  
-- Test approach: Gray-box / Black-box / White-box
+- Test approach: Gray-box
 
 **Test environment & dates:**  
 - Start:  
