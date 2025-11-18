@@ -1,6 +1,6 @@
 # 1️⃣ Introduction
 
-**Tester(s):**  
+**Tester:**  
 - Name: NELZY Charles-André
 
 **Purpose:**  
