@@ -1,7 +1,7 @@
 # 1️⃣ Introduction
 
 **Tester(s):**  
-- Name: NELZY Charles-A,dré
+- Name: NELZY Charles-André
 
 **Purpose:**  
 - penetration and functionality testing on the application's registration page
