@@ -25,6 +25,7 @@
 Using ZAP and the website's database, it was possible to detect and verify a certain number of issues listed below.
 
 **Overall risk level:** High
+
 **Top 5 immediate actions:**  
 1.  Use variables for the input and then use it for your commands so that its content can't be run as commands.
 2.  look for common ways of writing special characters involved in paths like / or \ and make sure to strip them of the input.
