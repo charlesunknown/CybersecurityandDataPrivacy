@@ -9,4 +9,4 @@
 | 15.11.2025 | 1.5 | Portswigger academy |Read about authentication, vulnerabilities in password based login, brute-force login Lab using Burp and 2FA simple bypass Lab|
 | 16.11.2025 | 2 | Phase 1 | Docker setup, Zap installation and start guide, material reading and class on penetration testing |
 | 16.11.2025 | 1 | Portswigger academy| Access control material, 2 Labs completed and task 3 submission |
-| 18.11.2025 | 3 | PHASE1 part1 part2| PHASE 1 part1 and part2 report made |
+| 18.11.2025 | 4 |Class+workshop and PHASE1 part1&part2| PHASE 1 part1 and part2 report made |
