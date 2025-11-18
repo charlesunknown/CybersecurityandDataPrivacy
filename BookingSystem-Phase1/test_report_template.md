@@ -29,8 +29,7 @@ Using ZAP and the website's database, it was possible to detect and verify a cer
 1.  Use variables for the input and then use it for your commands so that its content can't be run as commands.
 2.  look for common ways of writing special characters involved in paths like / or \ and make sure to strip them of the input.
 3.  Implement encryption server-side (a one-way incryption is commonly used for passwords) and then store the encrypted version
-4.  Implement conditions on the input such as minimum of characters, presence of special characters, numbers
-5.  Implement conditions on the Birthdate input to have minimal age necessary to use the booking service
+4.  Implement conditions on the inputs such as minimum of characters, presence of special characters, numbers for the passwords, minimal age necessary to use the booking service for the birthdate and validate emails.
 
 ---
 
