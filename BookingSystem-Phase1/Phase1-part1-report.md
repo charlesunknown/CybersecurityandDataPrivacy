@@ -31,6 +31,7 @@ Using ZAP and the website's database, it was possible to detect and verify a cer
 2.  look for common ways of writing special characters involved in paths like / or \ and make sure to strip them of the input.
 3.  Implement encryption server-side (a one-way incryption is commonly used for passwords) and then store the encrypted version
 4.  Implement conditions on the inputs such as minimum of characters, presence of special characters, numbers for the passwords, minimal age necessary to use the booking service for the birthdate and validate emails.
+5.  Add to the HTML header the script necessary for the CSP to be present
 
 ---
 
@@ -55,6 +56,8 @@ Using ZAP and the website's database, it was possible to detect and verify a cer
 | F-02 | 🔴 High | Path Traversel | username can be made with special characters using their ASCII format | <img width="840" height="130" alt="image" src="https://github.com/user-attachments/assets/9dfeddfc-79df-4a8b-a871-1b12cce21670" />
 | F-03 | 🟠 Medium | Database format | Information are clear in the database, no encryption of info | <img width="840" height="130" alt="image" src="https://github.com/user-attachments/assets/c7a2edb7-7bd0-4267-aeac-dad612f56cb4" />
 | F-04 | 🟡 Low | Weak birthdate/email/password policy | Accepts passwords like "12345", invalid emails and birthday in the future/no minimal age |<img width="514" height="41" alt="image" src="https://github.com/user-attachments/assets/89453e64-a04d-40d1-995b-9d9d0718e748" /> <img width="595" height="133" alt="image" src="https://github.com/user-attachments/assets/b85d311e-1fee-479d-96a3-d0c319c4070d" />
+| F-05 | 🔵 Info | Missing Content Security Policy (CSP) Header not Set | The page lacks this security header that helps mitigate attacks | <img width="1167" height="338" alt="image" src="https://github.com/user-attachments/assets/a78064f8-71ff-4a07-b7b0-5c25b4ec762b" />
+
 
 
 
