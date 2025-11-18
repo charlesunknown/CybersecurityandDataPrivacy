@@ -48,15 +48,16 @@
 
 ---
 
-# 4️⃣ Findings (filled with examples → replace)
+# 4️⃣ Findings 
 
-> Fill in one row per finding. Focus on clarity and the most important issues.
 
 | ID | Severity | Finding | Description | Evidence / Proof |
 |------|-----------|----------|--------------|------------------|
-| F-01 | 🔴 High | SQL Injection in registration | Input field allows `' OR '1'='1` injection | Screenshot or sqlmap result |
-| F-02 | 🟠 Medium | Session fixation | Session ID remains unchanged after login | Burp log or response headers |
-| F-03 | 🟡 Low | Weak password policy | Accepts passwords like "12345" | Screenshot of registration success |
+| F-01 | 🔴 High | SQL Injection in registration | Input field allows `' OR '1'='1` injection |<img width="924" height="389" alt="image" src="https://github.com/user-attachments/assets/4359732f-b31e-4fb6-a393-578ebf839470" />
+|
+| F-02 | 🔴 High | Path Traversel |  | Screenshot or sqlmap result |
+| F-03 | 🟠 Medium | Session fixation | Session ID remains unchanged after login | Burp log or response headers |
+| F-04 | 🟡 Low | Weak password policy | Accepts passwords like "12345" | Screenshot of registration success |
 
 ---
 
