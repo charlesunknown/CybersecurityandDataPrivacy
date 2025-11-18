@@ -23,7 +23,7 @@
 
 # 2️⃣ Executive Summary
 
-**Short summary (1-2 sentences):**  
+Using ZAP and the website's database, it was possible to detect and verify a certain number of issues listed below.
 
 **Overall risk level:** High
 **Top 5 immediate actions:**  
