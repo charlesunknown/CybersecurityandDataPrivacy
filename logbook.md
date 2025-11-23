@@ -10,3 +10,4 @@
 | 16.11.2025 | 2 | Phase 1 | Docker setup, Zap installation and start guide, material reading and class on penetration testing |
 | 16.11.2025 | 1 | Portswigger academy| Access control material, 2 Labs completed and task 3 submission |
 | 18.11.2025 | 4 |Class+workshop and PHASE1 part1&part2| PHASE 1 part1 and part2 report made |
+| 23.11.2025 | 2 |Portswigger Academy| 3 SQL injection Labs done|
