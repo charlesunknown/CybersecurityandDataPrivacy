@@ -13,3 +13,4 @@
 | 23.11.2025 | 2 |Portswigger Academy| 3 SQL injection Labs done|
 | 24.11.2025 | 1.5 |PHASE 1 PART2 | Disccusion thread, post made|
 | 24.11.2025 | 1.5 |phase2 class |how to crack passwords, dictionary, nodictionary attacks def|
+| 29.11.2025 | 1 |Portswigger Academy |Continued SQL injection, finished the UNION labs|
