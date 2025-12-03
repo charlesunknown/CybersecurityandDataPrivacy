@@ -16,3 +16,4 @@
 | 29.11.2025 | 1 |Portswigger Academy |Continued SQL injection, finished the UNION labs|
 | 1.12.2025 | 2 |Portswigger Academy |studied already done SQL injection, Started Blind SQL injection, first lab done|
 | 2.12.2025 | 1 |Portswigger Academy |Continued Blind SQL injection, second Lab done|
+| 3.12.2025 | 2.5 |Portswigger Academy |Blind SQL injectino with time delays, the two labs done|
