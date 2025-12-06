@@ -20,3 +20,4 @@
 | 4.12.2025 | 4 |Phase2 + Class about Phase 3|Hashcat installed, passwords cracked,ZAP report uploaded, report written, learned about Authorization|
 | 5.12.2025 | 1 |Portswigger Academy |Lab: Visible error-based SQL injection|
 | 6.12.2025 | 1 |Phase3 |Cratead accounts on page, tested manually and with ZAP, start of report|
+| 6.12.2025 | 1 |Portswigger Academy|Tried to do the last SQL inejction labs (can't use Burp Collaborator), so did the 1st lab of OS command Injection|
