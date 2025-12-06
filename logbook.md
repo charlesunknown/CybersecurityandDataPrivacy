@@ -19,3 +19,4 @@
 | 3.12.2025 | 2.5 |Portswigger Academy |Blind SQL injectino with time delays, the two labs done|
 | 4.12.2025 | 4 |Phase2 + Class about Phase 3|Hashcat installed, passwords cracked,ZAP report uploaded, report written, learned about Authorization|
 | 5.12.2025 | 1 |Portswigger Academy |Lab: Visible error-based SQL injection|
+| 6.12.2025 | 1 |Phase3 |Cratead accounts on page, tested manually and with ZAP, start of report|
