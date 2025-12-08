@@ -21,3 +21,4 @@
 | 5.12.2025 | 1 |Portswigger Academy |Lab: Visible error-based SQL injection|
 | 6.12.2025 | 1 |Phase3 |Cratead accounts on page, tested manually and with ZAP, start of report|
 | 6.12.2025 | 1 |Portswigger Academy|Tried to do the last SQL inejction labs (can't use Burp Collaborator), so did the 1st lab of OS command Injection|
+| 8.12.2025 | 3 |Phase 4 + Portswigger Academy|Phase 4 mostly done, labs done for command injection and Information disclosure |
