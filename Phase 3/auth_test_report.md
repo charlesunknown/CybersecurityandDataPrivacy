@@ -87,8 +87,6 @@ List prohibited behaviors, if any, or incorrect implementation issues.
 
 Example format:
 
-	Can't see all users without using api links.
-    Can’t delete resource without accessing by a reservation with it (which then fails)
-	Can’t delete Reserver (no access to list of users)
-    Cannot remove resource
+    Can’t delete resource 
+	Can’t delete Reserver 
 
