@@ -70,8 +70,8 @@ List actions an Administrator can perform.
 
 Example format:
 
-    Can add a resource
-    Can view all users (spec 4)
+    Can add aresource
+	can add reservation
     Can acces api/users
     Can access api/resources
     Can access api/reservation
@@ -83,6 +83,7 @@ List prohibited behaviors, if any, or incorrect implementation issues.
 
 Example format:
 
+	Can't see all users without using api links.
     Can’t delete resource without accessing by a reservation with it (which then fails)
 	Can’t delete Reserver (no access to list of users)
     Cannot remove reservation
