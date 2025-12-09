@@ -22,4 +22,4 @@
 | 6.12.2025 | 1 |Phase3 |Cratead accounts on page, tested manually and with ZAP, start of report|
 | 6.12.2025 | 1 |Portswigger Academy|Tried to do the last SQL inejction labs (can't use Burp Collaborator), so did the 1st lab of OS command Injection|
 | 8.12.2025 | 3.5 |Phase 4,5 + Portswigger Academy|Phase 4,5 mostly done, labs done for command injection and Information disclosure |
-| 9.12.2025 | 3 |Phase 3|Phase 3 struggles, trying to run gobuster|
+| 9.12.2025 | 4 |Phase 3|Phase 3 finished and submitted|
