@@ -41,10 +41,11 @@ List actions a Reserver can do according to specs + actual test results. Include
 
 Example format:
 
+	Can see all users uing the manage reservation window
     Can add resources
 	Can add reservation
-    can modify resources
-    can acces api/users
+	Can modify all reservation (/reservation?id=)
+    can access api/users
     can access api/resources
     Can access api/reservation
     Can access api/session
@@ -70,12 +71,15 @@ List actions an Administrator can perform.
 
 Example format:
 
-    Can add aresource
+	Can see all users uing the manage reservation window
+    Can add resource
 	can add reservation
     Can acces api/users
     Can access api/resources
     Can access api/reservation
     Can access api/session
+	Can modify reservation
+	Can delete reservation
 
 ❌ Cannot do
 
@@ -86,6 +90,5 @@ Example format:
 	Can't see all users without using api links.
     Can’t delete resource without accessing by a reservation with it (which then fails)
 	Can’t delete Reserver (no access to list of users)
-    Cannot remove reservation
     Cannot remove resource
 
