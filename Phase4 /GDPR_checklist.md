@@ -11,8 +11,8 @@
 | **Result** | **User registration and management** |
 | :----: | :--- |
 | &nbsp;✅| Does the registration form (page) include GDPR-compliant consent for processing<br> personal data (e.g., acceptance of the privacy policy)?|
-|⚠️&nbsp;| Can users view, edit, and delete their own personal data via their account? |
-|⚠️&nbsp;| Is there a mechanism for the administrator to delete a reserver in<br> accordance with the "right to be forgotten"? |
+|⚠️&nbsp;| Can users view, edit, and delete their own personal data via their account? Warning: There is no way to edit/delete information but we can view them|
+|⚠️&nbsp;| Is there a mechanism for the administrator to delete a reserver in<br> accordance with the "right to be forgotten"? Warning: no way given to delete a reserver as an admin|
 | &nbsp;✅| Is underage registration (under 15 years) and booking functionality restricted? |
 
 ---
@@ -27,7 +27,7 @@
 | **Result** | **Access control and authorization** |
 | :----: | :--- |
 |❌| Have you ensured that only administrators can add, modify, and delete<br> resources and bookings? |
-|⚠️&nbsp;| Is the system using role-based access control (e.g., reserver vs. administrator)? |
+|⚠️&nbsp;| Is the system using role-based access control (e.g., reserver vs. administrator)? Warning: Some pages reserved for admin/reserver are accessible when not having the role (ie. Guess can add ressources)|
 |❌| Are administrator privileges limited to ensure GDPR compliance (e.g., administrators<br> cannot use data for unauthorized purposes)? |
 
 ---
@@ -66,7 +66,7 @@
 
 | **Result** | **Documentation and communication** |
 | :----: | :--- |
-|⚠️&nbsp; | Is there a privacy policy available to users during registration and easily accessible? |
+|⚠️&nbsp; | Is there a privacy policy available to users during registration and easily accessible? Warning: There is a link to a Terms of service page but no mention of privacy policy|
 |❌| Are administrators and developers provided with documented data protection practices <br>and processing activities? |
 |❌| Is there a documented data breach response process (e.g., how to notify authorities <br>and users of a breach)? |
 
