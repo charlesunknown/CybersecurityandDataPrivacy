@@ -1,3 +1,5 @@
+Phase 3: Authorization Testing
+
 Pages list:
 	http://localhost:8003/
 	http://localhost:8003/register
@@ -90,3 +92,4 @@ Example format:
     Can’t delete resource 
 	Can’t delete Reserver 
 
+Using ZAP, we found the /static, /Robots.txt and the /sitemap.xml but they were not accessible.
