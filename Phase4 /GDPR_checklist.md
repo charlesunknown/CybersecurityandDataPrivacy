@@ -42,7 +42,7 @@
 
 | **Result** | **Data security** |
 | :----: | :--- |
-| &nbsp;✅/❌/⚠️&nbsp; | Are CSRF, XSS, and SQL injection protections implemented? |
+| &nbsp;✅| Are CSRF, XSS, and SQL injection protections implemented? |
 | &nbsp;✅| Are passwords securely hashed using a strong algorithm (e.g., bcrypt, Argon2)? |
 | ❌| Are data backup and recovery processes GDPR-compliant? |
 | &nbsp;✅| Is personal data stored in data centers located within the EU? |
