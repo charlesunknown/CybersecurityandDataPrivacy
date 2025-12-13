@@ -24,3 +24,4 @@
 | 8.12.2025 | 3.5 |Phase 4,5 + Portswigger Academy|Phase 4,5 mostly done, labs done for command injection and Information disclosure |
 | 9.12.2025 | 4 |Phase 3|Phase 3 finished and submitted|
 | 10.12.2025 | 1 |Phase 4|Phase 4 finished and submitted|
+| 11.12.2025 | 0.5 |Class |Beginning followed about the submission of last task and phase 4|
