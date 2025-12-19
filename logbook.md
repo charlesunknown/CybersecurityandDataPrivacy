@@ -27,4 +27,4 @@
 | 11.12.2025 | 0.5 |Class |Beginning followed about the submission of last task and phase 4|
 | 15.12.2025 | 2 |Final report +labs |Wrote the Booking system part of rpoert and did 3 labs(OS command injection, authorization)|
 | 16.12.2025 | 1 |Final report feedback |added labs to report and wrote feedback, added the dashboard screenshot|
-| 19.12.2025 | 1 |XSS scripting lab + final report| First read-through, 2 XSS labs done|
+| 19.12.2025 | 2 |XSS scripting lab + final report| First read-through, 4 XSS labs done|
